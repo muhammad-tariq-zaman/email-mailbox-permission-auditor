@@ -1,0 +1,7 @@
+mailbox,delegate,delegate_type,granted_date,last_used_days
+support@company.pk,contractor@vendor.com,external,2026-09-01,5
+support@company.pk,ayesha@company.pk,internal,2026-01-15,120
+info@company.pk,bilal@company.pk,internal,2026-10-01,10
+hr@company.pk,recruiter@agency.com,external,2026-11-01,2
+it@company.pk,omar@company.pk,internal,2026-03-01,200
+sales@company.pk,weird@company.pk,unknown,2026-01-01,5
